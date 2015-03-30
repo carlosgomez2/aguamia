@@ -55,13 +55,13 @@ text-align : justify;
 	padding-bottom: .75em;
 }
 .border-top{
-	border-top: 1px solid #00B4FF; 
+	border-top: 1px solid #f1f0f1; 
 }
 .ul-utilidad{ 									/*AQUI NO SE POR QUE NO ME CARGA EL FONT-SIZE*/
 	font-size: 1.2em;
 }
 .testimonio-title{
-	color: #FFFFFF;
+	color: #515151;
 	font-size: 1.2em;
 	font-weight: 700;
 	padding-top: 0.75em;
@@ -97,7 +97,7 @@ ul{
 
 /*MENU*/
 .Mainmenu{
-	background: #FFFFFF;
+	background: #f1f0f1;
 	text-align: center;
 	height: 3.75em;
 	font-weight: 700;
@@ -151,14 +151,23 @@ ul{
 }
 
 .testimonio{
-	background-color: #515151;
+	background-color: #f1f0f1;
 	height: 18em;
-	box-shadow: 0 0 0.2em 0.2em #777777;
+	/*box-shadow: 0 0 0.2em 0.2em #777777;*/
 }
 
 
+
+.Contacto{
+	background-color: #FFF;
+}
+.Contact-description{
+	text-align: center;
+}
+
 /*FOOTER*/
 .Footer-poweredby{
+	background-color: #f1f0f1;
 	display: block;
 	text-align: center;
 	padding-bottom: 1em;

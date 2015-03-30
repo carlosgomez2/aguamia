@@ -5,7 +5,7 @@
         <text>A%20Web%20Page%0Ahttp%3A//redaguamia.com.mx</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="511" y="166" w="798" h="29" measuredW="373" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="511" y="166" w="798" h="29" measuredW="352" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>INICIO%2C%20PRODUCTO%2C%20NOSOTROS%2C%20CONTACTO</text>
       </controlProperties>
@@ -21,155 +21,144 @@
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::VSplitter" x="710" y="612" w="265" h="-1" measuredW="100" measuredH="11" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="385" y="696" w="928" h="294" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="385" y="696" w="928" h="642" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>INFO%20DE%20AGUA</text>
       </controlProperties>
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="658" w="924" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="1069" y="747" w="204" h="192" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="414" y="747" w="204" h="192" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>IMG</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::FieldSet" x="385" y="1039" w="928" h="294" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>INFO%20DE%20AGUA</text>
-      </controlProperties>
-    </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="1069" y="1090" w="204" h="192" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>IMG</text>
-      </controlProperties>
-    </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="1013" w="924" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="-1"/>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Paragraph" x="414" y="732" w="629" h="243" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Paragraph" x="644" y="732" w="629" h="243" measuredW="275" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>A%20paragraph%20of%20text.%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20pro%20wisi%20choro%20aliquando%20et.%20Pro%20no%20omnes%20intellegat%2C%20at%20per%20ullum%20reformidans%2C%20ne%20graece%20apeirian%20tractatos%20sed.%20Usu%20audiam%20scriptorem%20eu.%20Nam%20at%20mazim%20tamquam%20invidunt.%20Euismod%20adolescens%20consectetuer%20ius%20no%2C%20lorem%20paulo%20ubique%20et%20eam.%0A%20%0AEam%20aeterno%20civibus%20dissentiunt%20te%2C%20usu%20ad%20summo%20labores%20intellegebat%2C%20quot%20mollis%20constituto%20cu%20vim.%20Mea%20animal%20persecuti%20ad%2C%20ne%20mei%20falli%20partem%20corrumpit.%20Ea%20nam%20laudem%20omittantur.%20Cu%20duo%20purto%20delenit%20reformidans%2C%20pro%20te%20saperet%20iudicabit.%20Ne%20cum%20fabulas%20dolorum%20convenire%2C%20vix%20reque%20tantas%20doctus%20ex.%20Assum%20dolores%20quaestio%20no%20sea.%0A%20%0AAt%20pro%20eripuit%20labores%2C%20ne%20patrioque%20accommodare%20complectitur%20quo.%20Ne%20mutat%20constituto%20cum%2C%20sumo%20vidisse%20suavitate%20ex%20sit.%20Duo%20ut%20ipsum%20inani%2C%20et%20nec%20numquam%20theophrastus%2C%20eu%20solet%20facilisi%20assueverit%20pro.%20Mel%20et%20rebum%20aperiam%2C%20qui%20doctus%20incorrupte%20eu.%20Ius%20ea%20verear%20singulis%20deseruisse%2C%20his%20id%20quaestio%20delicata%20evertitur.</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="414" y="1065" w="629" h="243" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>center</align>
-        <text>A%20paragraph%20of%20text.%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20pro%20wisi%20choro%20aliquando%20et.%20Pro%20no%20omnes%20intellegat%2C%20at%20per%20ullum%20reformidans%2C%20ne%20graece%20apeirian%20tractatos%20sed.%20Usu%20audiam%20scriptorem%20eu.%20Nam%20at%20mazim%20tamquam%20invidunt.%20Euismod%20adolescens%20consectetuer%20ius%20no%2C%20lorem%20paulo%20ubique%20et%20eam.%0A%20%0AEam%20aeterno%20civibus%20dissentiunt%20te%2C%20usu%20ad%20summo%20labores%20intellegebat%2C%20quot%20mollis%20constituto%20cu%20vim.%20Mea%20animal%20persecuti%20ad%2C%20ne%20mei%20falli%20partem%20corrumpit.%20Ea%20nam%20laudem%20omittantur.%20Cu%20duo%20purto%20delenit%20reformidans%2C%20pro%20te%20saperet%20iudicabit.%20Ne%20cum%20fabulas%20dolorum%20convenire%2C%20vix%20reque%20tantas%20doctus%20ex.%20Assum%20dolores%20quaestio%20no%20sea.%0A%20%0AAt%20pro%20eripuit%20labores%2C%20ne%20patrioque%20accommodare%20complectitur%20quo.%20Ne%20mutat%20constituto%20cum%2C%20sumo%20vidisse%20suavitate%20ex%20sit.%20Duo%20ut%20ipsum%20inani%2C%20et%20nec%20numquam%20theophrastus%2C%20eu%20solet%20facilisi%20assueverit%20pro.%20Mel%20et%20rebum%20aperiam%2C%20qui%20doctus%20incorrupte%20eu.%20Ius%20ea%20verear%20singulis%20deseruisse%2C%20his%20id%20quaestio%20delicata%20evertitur.</text>
-      </controlProperties>
-    </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="2788" w="924" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="710" y="2826" w="-1" h="-1" measuredW="276" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="2788" w="924" h="-1" measuredW="100" measuredH="10" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="710" y="2826" w="-1" h="-1" measuredW="265" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Agua%20M%EDa%20S.A.%20de%20C.V.%20%7C%20Derechos%20Reservados</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::FieldSet" x="385" y="2004" w="928" h="294" measuredW="200" measuredH="170" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::FieldSet" x="385" y="2004" w="928" h="294" measuredW="200" measuredH="170" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>NOSOTROS</text>
       </controlProperties>
     </control>
-    <control controlID="52" controlTypeID="com.balsamiq.mockups::Image" x="1069" y="2055" w="204" h="192" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Image" x="1069" y="2055" w="204" h="192" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>IMG</text>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::Paragraph" x="414" y="2040" w="629" h="243" measuredW="200" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Paragraph" x="414" y="2040" w="629" h="243" measuredW="275" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>A%20paragraph%20of%20text.%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20pro%20wisi%20choro%20aliquando%20et.%20Pro%20no%20omnes%20intellegat%2C%20at%20per%20ullum%20reformidans%2C%20ne%20graece%20apeirian%20tractatos%20sed.%20Usu%20audiam%20scriptorem%20eu.%20Nam%20at%20mazim%20tamquam%20invidunt.%20Euismod%20adolescens%20consectetuer%20ius%20no%2C%20lorem%20paulo%20ubique%20et%20eam.%0A%20%0AEam%20aeterno%20civibus%20dissentiunt%20te%2C%20usu%20ad%20summo%20labores%20intellegebat%2C%20quot%20mollis%20constituto%20cu%20vim.%20Mea%20animal%20persecuti%20ad%2C%20ne%20mei%20falli%20partem%20corrumpit.%20Ea%20nam%20laudem%20omittantur.%20Cu%20duo%20purto%20delenit%20reformidans%2C%20pro%20te%20saperet%20iudicabit.%20Ne%20cum%20fabulas%20dolorum%20convenire%2C%20vix%20reque%20tantas%20doctus%20ex.%20Assum%20dolores%20quaestio%20no%20sea.%0A%20%0AAt%20pro%20eripuit%20labores%2C%20ne%20patrioque%20accommodare%20complectitur%20quo.%20Ne%20mutat%20constituto%20cum%2C%20sumo%20vidisse%20suavitate%20ex%20sit.%20Duo%20ut%20ipsum%20inani%2C%20et%20nec%20numquam%20theophrastus%2C%20eu%20solet%20facilisi%20assueverit%20pro.%20Mel%20et%20rebum%20aperiam%2C%20qui%20doctus%20incorrupte%20eu.%20Ius%20ea%20verear%20singulis%20deseruisse%2C%20his%20id%20quaestio%20delicata%20evertitur.</text>
       </controlProperties>
     </control>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::SubTitle" x="453" y="2338" w="-1" h="-1" measuredW="100" measuredH="33" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::SubTitle" x="453" y="2338" w="-1" h="-1" measuredW="101" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Contacto</text>
       </controlProperties>
     </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextInput" x="455" y="2401" w="167" h="-1" measuredW="60" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextInput" x="455" y="2401" w="167" h="-1" measuredW="60" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Nombre</text>
       </controlProperties>
     </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::TextInput" x="455" y="2434" w="167" h="-1" measuredW="56" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::TextInput" x="455" y="2434" w="167" h="-1" measuredW="55" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Correo</text>
       </controlProperties>
     </control>
-    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextArea" x="453" y="2470" w="342" h="263" measuredW="200" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::TextArea" x="453" y="2470" w="342" h="263" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Mensaje</text>
       </controlProperties>
     </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::Button" x="736" y="2741" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Button" x="736" y="2741" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Enviar</text>
       </controlProperties>
     </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::VRule" x="842" y="2338" w="-1" h="445" measuredW="10" measuredH="100" zOrder="23" locked="false" isInGroup="-1"/>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::Paragraph" x="975" y="2490" w="234" h="153" measuredW="200" measuredH="80" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::VRule" x="842" y="2338" w="-1" h="445" measuredW="10" measuredH="100" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Paragraph" x="975" y="2490" w="234" h="153" measuredW="275" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>Telefonos%3A%0A%28722%29%20xxx%20-%20xxxx%0A%20%0ACorreo%20Electronico%3A%0Ared.aguamia@gmail.com%0A%20%0AHorarios%20de%20Atenci%F3n%3A%0A9%3A00%20a.m.%20-%205%3A00%20p.m.%0A%20</text>
       </controlProperties>
     </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::FieldSet" x="385" y="1388" w="928" h="294" measuredW="200" measuredH="170" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::FieldSet" x="385" y="1388" w="928" h="294" measuredW="200" measuredH="170" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>INFO%20DE%20PRODUCTO</text>
+        <text>PRODUCTO</text>
       </controlProperties>
     </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Image" x="1069" y="1439" w="204" h="192" measuredW="77" measuredH="79" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Image" x="414" y="1439" w="204" h="192" measuredW="77" measuredH="79" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <text>IMG</text>
       </controlProperties>
     </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Paragraph" x="414" y="1424" w="629" h="243" measuredW="200" measuredH="80" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Paragraph" x="644" y="1414" w="629" h="243" measuredW="275" measuredH="80" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>A%20paragraph%20of%20text.%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20pro%20wisi%20choro%20aliquando%20et.%20Pro%20no%20omnes%20intellegat%2C%20at%20per%20ullum%20reformidans%2C%20ne%20graece%20apeirian%20tractatos%20sed.%20Usu%20audiam%20scriptorem%20eu.%20Nam%20at%20mazim%20tamquam%20invidunt.%20Euismod%20adolescens%20consectetuer%20ius%20no%2C%20lorem%20paulo%20ubique%20et%20eam.%0A%20%0AEam%20aeterno%20civibus%20dissentiunt%20te%2C%20usu%20ad%20summo%20labores%20intellegebat%2C%20quot%20mollis%20constituto%20cu%20vim.%20Mea%20animal%20persecuti%20ad%2C%20ne%20mei%20falli%20partem%20corrumpit.%20Ea%20nam%20laudem%20omittantur.%20Cu%20duo%20purto%20delenit%20reformidans%2C%20pro%20te%20saperet%20iudicabit.%20Ne%20cum%20fabulas%20dolorum%20convenire%2C%20vix%20reque%20tantas%20doctus%20ex.%20Assum%20dolores%20quaestio%20no%20sea.%0A%20%0AAt%20pro%20eripuit%20labores%2C%20ne%20patrioque%20accommodare%20complectitur%20quo.%20Ne%20mutat%20constituto%20cum%2C%20sumo%20vidisse%20suavitate%20ex%20sit.%20Duo%20ut%20ipsum%20inani%2C%20et%20nec%20numquam%20theophrastus%2C%20eu%20solet%20facilisi%20assueverit%20pro.%20Mel%20et%20rebum%20aperiam%2C%20qui%20doctus%20incorrupte%20eu.%20Ius%20ea%20verear%20singulis%20deseruisse%2C%20his%20id%20quaestio%20delicata%20evertitur.</text>
       </controlProperties>
     </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::HRule" x="334" y="1704" w="1044" h="-1" measuredW="100" measuredH="10" zOrder="28" locked="false" isInGroup="-1"/>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::HRule" x="334" y="1971" w="1044" h="-1" measuredW="100" measuredH="10" zOrder="29" locked="false" isInGroup="-1"/>
-    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="385" y="1719" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::HRule" x="334" y="1704" w="1044" h="-1" measuredW="100" measuredH="10" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::HRule" x="334" y="1971" w="1044" h="-1" measuredW="100" measuredH="10" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Label" x="385" y="1719" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Testimonios</text>
       </controlProperties>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="460" y="1757" w="134" h="133" measuredW="77" measuredH="79" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="460" y="1757" w="134" h="133" measuredW="77" measuredH="79" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>cliente_1</text>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="780" y="1757" w="134" h="133" measuredW="77" measuredH="79" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="780" y="1757" w="134" h="133" measuredW="77" measuredH="79" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>cliente_1</text>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="1122" y="1757" w="134" h="133" measuredW="77" measuredH="79" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="1122" y="1757" w="134" h="133" measuredW="77" measuredH="79" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <text>cliente_1</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::Paragraph" x="1122" y="1905" w="139" h="41" measuredW="200" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Paragraph" x="1122" y="1905" w="139" h="41" measuredW="275" measuredH="80" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>A%20paragraph%20of%20text.%0ATestimonio</text>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Paragraph" x="780" y="1905" w="139" h="41" measuredW="200" measuredH="80" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Paragraph" x="780" y="1905" w="139" h="41" measuredW="275" measuredH="80" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>A%20paragraph%20of%20text.%0ATestimonio</text>
       </controlProperties>
     </control>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="460" y="1905" w="139" h="41" measuredW="200" measuredH="80" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="460" y="1905" w="139" h="41" measuredW="275" measuredH="80" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>A%20paragraph%20of%20text.%0ATestimonio</text>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="2323" w="924" h="-1" measuredW="100" measuredH="10" zOrder="37" locked="false" isInGroup="-1"/>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="1358" w="924" h="-1" measuredW="100" measuredH="10" zOrder="38" locked="false" isInGroup="-1"/>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::VCurly" x="1390" y="117" w="213" h="550" measuredW="180" measuredH="140" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="2323" w="924" h="-1" measuredW="100" measuredH="10" zOrder="33" locked="false" isInGroup="-1"/>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::HRule" x="385" y="1358" w="924" h="-1" measuredW="100" measuredH="10" zOrder="34" locked="false" isInGroup="-1"/>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::VCurly" x="1390" y="117" w="213" h="550" measuredW="180" measuredH="140" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <text>lo%20que%20saldr%E1%20en%20la%20pantalla%20%0Ade%20landing%0A%20%0Aabobe%20fold%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Paragraph" x="414" y="1013" w="874" h="243" measuredW="275" measuredH="80" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>A%20paragraph%20of%20text.%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20pro%20wisi%20choro%20aliquando%20et.%20Pro%20no%20omnes%20intellegat%2C%20at%20per%20ullum%20reformidans%2C%20ne%20graece%20apeirian%20tractatos%20sed.%20Usu%20audiam%20scriptorem%20eu.%20Nam%20at%20mazim%20tamquam%20invidunt.%20Euismod%20adolescens%20consectetuer%20ius%20no%2C%20lorem%20paulo%20ubique%20et%20eam.%0A%20%0AEam%20aeterno%20civibus%20dissentiunt%20te%2C%20usu%20ad%20summo%20labores%20intellegebat%2C%20quot%20mollis%20constituto%20cu%20vim.%20Mea%20animal%20persecuti%20ad%2C%20ne%20mei%20falli%20partem%20corrumpit.%20Ea%20nam%20laudem%20omittantur.%20Cu%20duo%20purto%20delenit%20reformidans%2C%20pro%20te%20saperet%20iudicabit.%20Ne%20cum%20fabulas%20dolorum%20convenire%2C%20vix%20reque%20tantas%20doctus%20ex.%20Assum%20dolores%20quaestio%20no%20sea.%0A%20%0AAt%20pro%20eripuit%20labores%2C%20ne%20patrioque%20accommodare%20complectitur%20quo.%20Ne%20mutat%20constituto%20cum%2C%20sumo%20vidisse%20suavitate%20ex%20sit.%20Duo%20ut%20ipsum%20inani%2C%20et%20nec%20numquam%20theophrastus%2C%20eu%20solet%20facilisi%20assueverit%20pro.%20Mel%20et%20rebum%20aperiam%2C%20qui%20doctus%20incorrupte%20eu.%20Ius%20ea%20verear%20singulis%20deseruisse%2C%20his%20id%20quaestio%20delicata%20evertitur.</text>
       </controlProperties>
     </control>
   </controls>
