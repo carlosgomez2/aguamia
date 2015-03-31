@@ -1,0 +1,28 @@
+
+
+/* General Demo Style @import url('reset.css'); */
+.clr{
+	clear: both;
+}
+.wrapper{
+	position: inline-block;
+	width: 100%;
+}
+.wrapper p{
+	clear: both;
+	font-size: 1em;
+	line-height: 2.5em;
+	text-align: center;
+}
+
+@media screen and (max-width: 860px) {
+	.header a{
+		display: block;
+		text-align: center;
+		font-size: 10px;
+		text-shadow: none;
+	}
+	.header span.right{
+		float: none;
+	}
+}

@@ -118,7 +118,7 @@ ul{
 	color: #515151;
 	text-decoration: none;
 	line-height: 3.75em;
-	margin-right: 0.1em;
+	margin-right: 1px;
 
 		/* Efecto Fade */
 		display: inline-block;
@@ -143,21 +143,42 @@ ul{
 /*HEADER*/
 .Header{
 	margin-top: 3.75em;
-	background: url('portada.jpg');
+	/*background-image: url("../img/portada-bottle.png");
 	background-repeat: no-repeat;
-	background-position: cover;
+	background-position: center;
+	background-size: cover; 
 	text-align: center;
-	padding: 1.1em;
+	padding: 1.1em 0;
+	height: 30em;*/
 }
 
+/*blockquote*/
+.blockquote-main{
+	font-size: 1.5em;
+	line-height: 6em;
+	width: 100%;
+	background-color: #f1f0f1;
+	height: 100px;
+	text-align: center;
+	/*padding-top: 40px;*/
+	color: #616161;
+	font-weight: 300;
+	font-style: italic;
+}
+
+
+/*TESTIMONIO*/
 .testimonio{
 	background-color: #f1f0f1;
 	height: 18em;
 	/*box-shadow: 0 0 0.2em 0.2em #777777;*/
 }
+.testimonio-avatar{
+	margin-left: 25em;
+	display: inline-block;
+}
 
-
-
+/*CONTACTO*/
 .Contacto{
 	background-color: #FFF;
 }
@@ -174,6 +195,7 @@ ul{
 	height: 2.5em;
 }
 .Footer-poweredbyRight{
+	font-size: 1em;
 	color: #00B4FF;
 }
 
