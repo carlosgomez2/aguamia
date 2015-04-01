@@ -91,15 +91,12 @@ p{
 	margin-left: 3em;
 	margin-top: 0.6em;
 }
-/*p.blockquote-main{
-	color: #515151;
-	font-size: 1.2em;
-	margin-right: 3em;
-	margin-left: 3em;
-	margin-top: 0.6em;
-}*/
 a{
 	color: #00B4FF;
+	text-decoration: none;
+}
+a:hover, a:active{
+	color: #00a2e5;
 }
 ul{
 	margin-right: 4em;
