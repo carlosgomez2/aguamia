@@ -189,6 +189,7 @@ ul{
 /*CONTACTO*/
 .Contacto{
 	background-color: #FFF;
+	min-height: 15em;
 }
 .Contact-description{
 	text-align: center;
