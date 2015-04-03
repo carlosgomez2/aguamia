@@ -63,6 +63,7 @@
 	height: 13px;
 	margin: 0 auto;
 	position: relative;
+	padding: 0 1em 0 1em;
 }
 .ei-slider-thumbs li{
 	position: relative;
