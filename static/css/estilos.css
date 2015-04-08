@@ -71,6 +71,14 @@ text-align : justify;
 	display: block; 
 	margin: auto;
 }
+.wrapper-body{
+	max-width: 1000px;
+	margin: auto;
+}
+.wrapper-slider{
+	max-width: 1000px;
+	margin: auto;
+}
 
 /*GENERAL*/
 h2{
