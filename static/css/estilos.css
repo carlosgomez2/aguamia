@@ -182,17 +182,23 @@ li{
 	-ms-text-size-adjust: 100%; 
 	-webkit-text-size-adjust: 100%;  
 	
-	font-size: 1.3em;
+
 /*	line-height: 6em;*/
 	width: 100%;
 	background-color: #F1F0F1;
-	height: 6em;
+	/*height: 6em;*/
 	text-align: center;
 	color: #616161;
+	
+	margin: auto;
+}
+.blockquote{
 	font-weight: 300;
 	font-style: italic;
+	font-size: 1.4em;
+	line-height: 4em;
+	text-align: center;
 }
-
 
 /*TESTIMONIO*/
 .testimonio{
