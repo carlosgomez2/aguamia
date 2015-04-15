@@ -232,6 +232,8 @@ li{
 	text-align: center;
 }
 
-
-
-
+@media screen and (max-width: 520px){
+	.ei-slider{
+		padding-top: 128px;
+	}
+}
